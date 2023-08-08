@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: A CS PhD Canddaite @ Hong Kong Polytechnic University</a>
 

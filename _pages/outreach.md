@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /outreach/
-title: outreach
+title: Outreach
 description: An overview of my outreach work at both the local Charlottesville and broader STEM community level...
 nav: true
 nav_order: 5
