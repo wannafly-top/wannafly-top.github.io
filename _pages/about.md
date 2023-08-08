@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A CS PhD Canddaite @ Hong Kong Polytechnic University</a>
+subtitle: A CS PhD Candidate@PolyU, Focus on PL/SE/SEC</a>
 
 profile:
   align: right
