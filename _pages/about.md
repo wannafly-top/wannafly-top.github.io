@@ -19,4 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}" (
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Huaien Zhang.
+Hey, my name is Huaien Zhang. I am a CS PhD Candidate at The Hong Kong Polytechnic University advised by Dr. Yu Pei. I also work closely with Dr. Yuqun Zhang and Dr. Shin Hwei Tan. Currently, I am interested in **software engineering** and **programming language**. Specifically, I foucs on applying various techniques e.g., static analysis to recognize potential bugs in software systems.
+
+Feel free to contact me!
