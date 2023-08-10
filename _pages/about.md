@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A CS PhD Candidate@PolyU, Focus on PL/SE/SEC</a>
+subtitle: CS PhD Candidate@PolyU, Focus on PL/SE/SEC</a>
 
 profile:
   align: right
@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}" (
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, my name is Huaien Zhang. I am a CS PhD Candidate at The Hong Kong Polytechnic University advised by Dr. Yu Pei. I also work closely with Dr. Yuqun Zhang and Dr. Shin Hwei Tan. Currently, I am interested in **software engineering** and **programming language**. Specifically, I foucs on applying various techniques e.g., static analysis to recognize potential bugs in software systems.
+Hey, my name is Huaien Zhang. I am a CS PhD Candidate at The Hong Kong Polytechnic University advised by Dr. Yu Pei. I also work closely with Dr. Yuqun Zhang and Dr. Shin Hwei Tan.
+
+Currently, I am interested in **software engineering** and **programming language**. Specifically, I foucs on applying various techniques such as static analysis and fuzzing to recognize potential bugs, vulnerabilities, and privacy leakage in software systems.
 
 Feel free to contact me!
