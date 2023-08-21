@@ -164,7 +164,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  News:
+  news:
     defaults:
       layout: post
     output: true
@@ -267,8 +267,8 @@ display_tags: # these tags will be displayed on the front page of your blog
 
 scholar:
 
-  last_name: [Vitchutripop]
-  first_name: [Teeratham]
+  last_name: [Zhang]
+  first_name: [Huaien]
 
   style: apa
   locale: en
