@@ -8,7 +8,7 @@ middle_name:
 last_name: Zhang
 email: cshezhang@comp.polyu.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+
 footer_text: >
 keywords:  # add your own keywords or leave empty
 
@@ -119,9 +119,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: begs_the_question # blog_name will be displayed in your blog page
-blog_nav_title: #blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a stream of thoughts by TJ
+blog_name: Huaien's Blog # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: To add
 permalink: /blog/:year/:title/
 
 # Pagination

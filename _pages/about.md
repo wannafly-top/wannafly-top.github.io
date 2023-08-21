@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts (will set to true once I get a blog going)
-selected_papers: false # includes a list of papers marked as "selected={true}" (will set to true once I have publications 😅)
+selected_papers: true # includes a list of papers marked as "selected={true}" (will set to true once I have publications 😅)
 social: true  # includes social icons at the bottom of the page
 ---
 
