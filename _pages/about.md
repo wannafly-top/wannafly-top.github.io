@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}" (
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, my name is Huaien Zhang. I am a CS PhD Candidate at The Hong Kong Polytechnic University advised by Dr. Yu Pei. I also work closely with Dr. Yuqun Zhang and Dr. Shin Hwei Tan.
+Hey, my name is Huaien Zhang. I am a CS PhD Candidate at The Hong Kong Polytechnic University advised by Dr. Yu Pei and Dr. Shin Hwei Tan. I also work closely with Dr. Yuqun Zhang.
 
-Currently, I am interested in **software engineering** and **programming language**. Specifically, I foucs on applying various techniques such as static analysis and fuzzing to recognize potential bugs, vulnerabilities, and privacy leakage in software systems.
+Currently, I am interested in **Software Engineering** and **Programming Language**. Specifically, I foucs on applying various techniques such as static analysis and fuzzing to recognize potential bugs, vulnerabilities, and privacy leakage in software systems. I am also exploring some new ideas in SE for Web3 and AI to catch up the trend...=_=
 
 Feel free to contact me!
