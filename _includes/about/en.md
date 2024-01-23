@@ -5,6 +5,7 @@ Hi, I am Huaien Zhang, a CS PhD candidate at The Hong Kong Polytechnic Universit
 * 2018 - 2021, Software Engineering, Fudan University
 
 ## Publication
+* Understanding and Detecting Annotation-induced Faults of Static Analyzers, ESEC/FSE 2024
 * Statfier: Automated Testing of Static Analyzers via Semantic-preserving Program Transformations, ESEC/FSE 2023
 * Classifying Code Comments via Pre-trained Programming Language Mode, NLBSE 2023
 
